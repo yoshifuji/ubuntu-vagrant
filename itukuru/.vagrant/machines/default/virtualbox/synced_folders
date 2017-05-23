@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/sync":{"create":true,"guestpath":"/srv/sync","hostpath":"/Users/YoshitakaFujisawa/work/git-repos/vagrant-imgs/itukuru/sync","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/YoshitakaFujisawa/work/git-repos/vagrant-imgs/itukuru","disabled":false,"__vagrantfile":true}}}
